@@ -11,7 +11,7 @@ e91b75d0b1e954dc5b53f11461224125821739424b4e0da12d3c4151dbfcfe37
 is in the data part of [this Ethereum transaction](https://etherscan.io/tx/0xdec3ec51b8308f40b8672a5f07dc97311bd695eaa1efa6259e5a3ce0b45f8113) (block height "6726985").
 
 Since the game has ended with a winner. Here is the proof to get the hash from the image source.
-[![logo-source.jpg](https://i.postimg.cc/MHVR2JLg/logo-source.jpg)](https://postimg.cc/QKNV1whq)
+[![logo-source.jpg](https://raw.githubusercontent.com/bytes-io/bytes.io-logo-contest-proof/master/logo-source.jpg)](https://raw.githubusercontent.com/bytes-io/bytes.io-logo-contest-proof/master/logo-source.jpg)
 
 ```
 npm install
